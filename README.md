@@ -107,5 +107,5 @@ churn_prediction/
 
 ## 👥 Auteurs
 
-- Étudiant 1 — [Prénom Nom]
-- Étudiant 2 — [Prénom Nom]
+- Étudiant  — Omar Boussiline
+
